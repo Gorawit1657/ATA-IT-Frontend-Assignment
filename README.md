@@ -11,7 +11,7 @@ After cloning this repository, follow these steps to run the project locally:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Gorawit1657/ATA-IT-Frontend-Assignment.git
-   cd order-search-app
+   cd 
    ```
 
 2. **Install dependencies**
