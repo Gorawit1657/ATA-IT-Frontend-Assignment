@@ -26,7 +26,7 @@ After cloning this repository, follow these steps to run the project locally:
 
 4. **Start the development server**
    ```bash
-   npm start
+   npm run dev
    ```
 
 5. **Open your browser**
